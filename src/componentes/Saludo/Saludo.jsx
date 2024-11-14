@@ -1,4 +1,3 @@
-// src/components/Saludo.jsx
 import { useState } from 'react';
 
 function Saludo() {

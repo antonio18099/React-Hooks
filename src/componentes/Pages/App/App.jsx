@@ -1,4 +1,3 @@
-// src/pages/App.jsx
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from '../../Layouts/Header/Header.jsx';
 import Saludo from '../../Saludo/Saludo.jsx';

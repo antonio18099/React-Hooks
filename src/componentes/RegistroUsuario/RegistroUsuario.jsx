@@ -1,4 +1,3 @@
-// src/components/RegistroUsuario.jsx
 import { useState } from 'react';
 
 function RegistroUsuario() {
